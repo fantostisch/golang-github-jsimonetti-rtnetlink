@@ -1,0 +1,5 @@
+golang-github-jsimonetti-rtnetlink (0.0~git20201027.7196e82-1) UNRELEASED; urgency=medium
+
+  * Initial release
+
+ -- Nick Aquina <nickaquina@gmail.com>  Thu, 29 Oct 2020 16:27:30 +0100
